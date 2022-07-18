@@ -64,7 +64,7 @@ class CryptoBlockchain {
 
 let afriCoin = new CryptoBlockchain();
 
-console.log("smashingCoin mining in progress....");
+console.log("afriCoin mining in progress....");
 afriCoin.addNewBlock(
   new CryptoBlock(1, "18/07/2022", {
     sender: "Afriguild",
